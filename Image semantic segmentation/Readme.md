@@ -8,7 +8,8 @@
 In this Task, I applied **VGG16-FCN32s** and **DeepLabV3-ResNet101** to implement semantic segmentation.
 
 <img src="https://i.imgur.com/vghP24D.jpg" width="200"/> <img src="https://i.imgur.com/EDA3XqT.png" width="200"/> <img src="https://i.imgur.com/QlzwrLp.png" width="200"/>
-<font style="padding: 60px;">Real Image</font><font style="padding: 60px;">Ground Truth</font><font style="padding: 60px;">Prediction</font>
+
+Real Image > Ground Truth > Prediction 
 
 ### VGG16-FCN32s [1]
 
