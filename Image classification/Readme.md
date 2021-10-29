@@ -138,5 +138,7 @@ According to t-SNE results, we clustering most of the data well. But there are s
 
 ## References
 [1] https://github.com/DeepVoltaire/AutoAugment/blob/master/autoaugment.py
+
 [2] https://arxiv.org/pdf/1512.00567.pdf
+
 [3] https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html
